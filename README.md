@@ -5,7 +5,7 @@ Links to articles and online courses that have helped me learn Golang
 https://golang.org/ref/spec
 
 ## Online courses
-https://quii.gitbook.io/learn-go-with-tests/ (golang and tdd)
+https://quii.gitbook.io/learn-go-with-tests/ (golang and tdd)  
 https://tour.golang.org/welcome/1
 
 ## Debugging
