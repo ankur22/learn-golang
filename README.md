@@ -19,6 +19,7 @@ https://zupzup.org/io-pipe-go/
 https://golang.org/pkg/io/#MultiWriter
 
 ## Coding style
+http://go-proverbs.github.io/  
 https://github.com/uber-go/guide/blob/master/style.md  
 https://dave.cheney.net/2020/02/23/the-zen-of-go  
 https://dave.cheney.net/practical-go/presentations/qcon-china.html  
