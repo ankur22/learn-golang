@@ -24,6 +24,10 @@ https://dave.cheney.net/2020/02/23/the-zen-of-go
 https://dave.cheney.net/practical-go/presentations/qcon-china.html  
 https://golang.org/doc/effective_go.html
 
+### Idiomatic Go
+https://www.youtube.com/watch?v=yeetIgNeIkc
+https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88
+
 ## Useful articles
 https://dave.cheney.net/2016/08/20/solid-go-design  
 https://the-zen-of-go.netlify.com/  
