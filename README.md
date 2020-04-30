@@ -25,7 +25,7 @@ https://dave.cheney.net/practical-go/presentations/qcon-china.html
 https://golang.org/doc/effective_go.html
 
 ### Idiomatic Go
-https://www.youtube.com/watch?v=yeetIgNeIkc
+https://www.youtube.com/watch?v=yeetIgNeIkc  
 https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88
 
 ## Useful articles
