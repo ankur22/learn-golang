@@ -25,6 +25,12 @@ https://dave.cheney.net/2020/02/23/the-zen-of-go
 https://dave.cheney.net/practical-go/presentations/qcon-china.html  
 https://golang.org/doc/effective_go.html
 
+## Abstractions
+https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29  
+https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction  
+https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to  
+https://medium.com/@joshsaintjacque/small-functions-considered-awesome-c95b3fd1812f  
+
 ### Idiomatic Go
 https://www.youtube.com/watch?v=yeetIgNeIkc  
 https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88
