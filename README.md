@@ -6,7 +6,8 @@ https://golang.org/ref/spec
 
 ## Online courses
 https://quii.gitbook.io/learn-go-with-tests/ (golang and tdd)  
-https://tour.golang.org/welcome/1
+https://tour.golang.org/welcome/1  
+https://github.com/smileisak/go-training
 
 ## Debugging
 https://golang.org/pkg/expvar/  
