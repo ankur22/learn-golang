@@ -13,6 +13,9 @@ https://github.com/smileisak/go-training
 https://golang.org/pkg/expvar/  
 https://blog.golang.org/race-detector
 
+## Compiling
+https://medium.com/a-journey-with-go/go-how-to-take-advantage-of-the-symbols-table-360dd52269e5
+
 ## Interesting pkgs
 https://pkg.go.dev/github.com/google/go-cmp/cmp?tab=doc#Equal  
 https://github.com/google/wire  
